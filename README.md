@@ -1,1 +1,1 @@
-Beginner level project
+Beginner level rock-paper-scissors game
